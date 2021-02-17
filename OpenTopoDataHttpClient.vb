@@ -68,6 +68,7 @@ Public Class OpenTopoDataHttpClient
         srtm90m
         emod2018
         gebco2020
+        bkg200m
     End Enum
     ''' <summary>
     ''' Enumeration of allowed interpolation methods.
